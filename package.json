@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "babel-core": "6.26.0",
-    "escodegen": "1.9.1",
+    "escodegen": "1.14.3",
     "esprima": "4.0.1",
     "estraverse": "4.2.0",
     "uglify-js": "3.10.0",
