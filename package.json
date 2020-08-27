@@ -13,13 +13,13 @@
   },
   "dependencies": {
     "babel-core": "6.26.0",
-    "escodegen": "1.9.1",
+    "escodegen": "1.14.3",
     "esprima": "4.0.1",
     "estraverse": "4.2.0",
-    "uglify-js": "3.4.9",
+    "uglify-js": "3.10.0",
     "babel-cli": "6.26.0",
     "babel-preset-es2015": "6.24.1",
     "babel-preset-react": "6.24.1",
-    "javascript-obfuscator": "0.18.3"
+    "javascript-obfuscator": "0.28.5"
   }
 }
