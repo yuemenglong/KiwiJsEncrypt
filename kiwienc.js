@@ -196,14 +196,6 @@ function decodeBase64(base64Str){
   return Buffer.from(base64Str,'base64').toString('ascii');
 }
 
-const checkjih = check();
-if(!checkjih ){
-  process.exit(1);
-}
-
-if(Number(decodeBase64(TS))<Date.now()){
-  process.exit(7);
-}
 
 
 
